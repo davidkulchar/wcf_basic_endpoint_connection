@@ -1,0 +1,10 @@
+c:\users\david\documents\visual studio 2017\Projects\GoodbyeService\HelloServiceHost\bin\Debug\HelloServiceHost.exe.config
+c:\users\david\documents\visual studio 2017\Projects\GoodbyeService\HelloServiceHost\bin\Debug\HelloServiceHost.exe
+c:\users\david\documents\visual studio 2017\Projects\GoodbyeService\HelloServiceHost\bin\Debug\HelloServiceHost.pdb
+c:\users\david\documents\visual studio 2017\Projects\GoodbyeService\HelloServiceHost\bin\Debug\GoodbyeService.dll
+c:\users\david\documents\visual studio 2017\Projects\GoodbyeService\HelloServiceHost\bin\Debug\GoodbyeService.pdb
+c:\users\david\documents\visual studio 2017\Projects\GoodbyeService\HelloServiceHost\bin\Debug\GoodbyeService.dll.config
+c:\users\david\documents\visual studio 2017\Projects\GoodbyeService\HelloServiceHost\obj\Debug\HelloServiceHost.csprojResolveAssemblyReference.cache
+c:\users\david\documents\visual studio 2017\Projects\GoodbyeService\HelloServiceHost\obj\Debug\HelloServiceHost.csproj.CoreCompileInputs.cache
+c:\users\david\documents\visual studio 2017\Projects\GoodbyeService\HelloServiceHost\obj\Debug\HelloServiceHost.exe
+c:\users\david\documents\visual studio 2017\Projects\GoodbyeService\HelloServiceHost\obj\Debug\HelloServiceHost.pdb

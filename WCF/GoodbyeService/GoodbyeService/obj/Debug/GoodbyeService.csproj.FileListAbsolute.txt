@@ -1,0 +1,7 @@
+c:\users\david\documents\visual studio 2017\Projects\GoodbyeService\GoodbyeService\bin\Debug\GoodbyeService.dll.config
+c:\users\david\documents\visual studio 2017\Projects\GoodbyeService\GoodbyeService\bin\Debug\GoodbyeService.dll
+c:\users\david\documents\visual studio 2017\Projects\GoodbyeService\GoodbyeService\bin\Debug\GoodbyeService.pdb
+c:\users\david\documents\visual studio 2017\Projects\GoodbyeService\GoodbyeService\obj\Debug\GoodbyeService.csprojResolveAssemblyReference.cache
+c:\users\david\documents\visual studio 2017\Projects\GoodbyeService\GoodbyeService\obj\Debug\GoodbyeService.csproj.CoreCompileInputs.cache
+c:\users\david\documents\visual studio 2017\Projects\GoodbyeService\GoodbyeService\obj\Debug\GoodbyeService.dll
+c:\users\david\documents\visual studio 2017\Projects\GoodbyeService\GoodbyeService\obj\Debug\GoodbyeService.pdb
